@@ -1,0 +1,17 @@
+{
+  "name": "4_node_client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/cmd.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sigrid Keydana",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "got": "^14.4.2"
+  }
+}
